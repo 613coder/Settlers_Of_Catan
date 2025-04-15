@@ -341,7 +341,7 @@ def use_dev_card(player, card):
         player.got_largest_army()
 
                                                                         #placing a robber
-robber = pygame.image.load(r'C:\Users\Weiss Family\source\repos\settlers_of_catan\second_robber_image_unedited.png')
+robber = pygame.image.load(second_robber_image_unedited.png)
 def place_robber():
             #covering over past robber by redrawing the map
     redraw_board()
